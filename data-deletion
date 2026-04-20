@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Delete Your Data – Win The Day</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 60px 24px;
+      color: #1a1a1a;
+      line-height: 1.7;
+    }
+    h1 { font-size: 26px; margin-bottom: 4px; }
+    p { font-size: 15px; color: #333; }
+    .card {
+      background: #f8f8f8;
+      border-radius: 12px;
+      padding: 24px;
+      margin: 28px 0;
+    }
+    .card h2 { margin-top: 0; font-size: 17px; }
+    ol { padding-left: 20px; }
+    ol li { margin-bottom: 8px; font-size: 15px; color: #333; }
+    a { color: #e67e22; }
+    .note { color: #666; font-size: 13px; border-left: 3px solid #e67e22; padding-left: 12px; margin-top: 24px; }
+  </style>
+</head>
+<body>
+
+  <h1>Delete Your Account &amp; Data</h1>
+  <p>We respect your right to have your data removed. This page explains how to permanently delete your Win The Day account and all associated data.</p>
+
+  <div class="card">
+    <h2>Option 1 — Delete directly in the app (instant)</h2>
+    <ol>
+      <li>Open the <strong>Win The Day</strong> app</li>
+      <li>Tap the <strong>Settings</strong> icon (top right of the Today screen)</li>
+      <li>Scroll to the <strong>Account</strong> section</li>
+      <li>Tap <strong>Delete Account &amp; Data</strong></li>
+      <li>Confirm deletion when prompted</li>
+    </ol>
+    <p>Your account, habits, streaks, diary entries, and all personal data will be permanently deleted immediately.</p>
+  </div>
+
+  <div class="card">
+    <h2>Option 2 — Request via email</h2>
+    <p>
+      If you no longer have access to the app, email us at
+      <a href="mailto:bellgadevelopments@gmail.com">bellgadevelopments@gmail.com</a>
+      with the subject line <strong>"Data Deletion Request"</strong> and include the email address
+      associated with your account. We will process your request within 7 days.
+    </p>
+  </div>
+
+  <p class="note">
+    Deleting your account removes all data from our servers permanently. This includes your profile,
+    habit history, streaks, badges, diary entries, and any other personal information. This action
+    cannot be undone. Active subscriptions must be cancelled separately through the
+    App Store or Google Play.
+  </p>
+
+  <p style="margin-top:40px; font-size:13px; color:#999;">
+    BELL GA Developments · Perth, Western Australia ·
+    <a href="privacy-policy">Privacy Policy</a>
+  </p>
+
+</body>
+</html>
